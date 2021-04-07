@@ -1,0 +1,134 @@
+.post{
+  border: 1px solid;
+  width: 40%;
+  margin-top: 30px;
+}
+
+.post-date{
+  color: gray;
+}
+
+.contents{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.logo{
+  height: 150px;
+  font-size: 100px;
+}
+
+.header{
+  background-color: lightyellow;
+  padding: 20px;
+}
+
+.list{
+  height: 80px;
+  width: 30%;
+  font-size: 55px;
+  border: 1px black solid;
+  display: flex;
+  justify-content: space-around;
+}
+
+.content{
+  background-color: black;
+  color: white;
+}
+
+.top-contents{
+  background-color: gray;
+  height: 400px;
+  display: flex;
+}
+
+.left-content{
+  background-color: blue;
+  height: 300px;
+  width: 30%;
+}
+
+.right-contents{
+  background-color: red;
+  height: 300px;
+  width: 70%;
+}
+
+.bottom-contents{
+  background-color: black;
+  display: flex;
+  justify-content: center;
+}
+
+.contact-form{
+ display: flex;
+ justify-content: center;
+}
+
+.small-field{
+  width: 400px;
+  margin: 15px;
+  padding: 15px;
+  border: 1px lightgray solid;
+  font-size: 16px;
+}
+
+.send{
+ width: 200px;
+ padding: 15px;
+ background-color: lightblue;
+ color: white;
+}
+
+.content{
+  height: 100vh;
+  background-color: lightgray;
+}
+
+.top-content{
+  background-color: olive;
+  height: 100px;
+  width: 300px;
+  margin: auto;
+}
+
+.middle-content{
+  background-color: purple;
+  height: 100px;
+  width: 300px;
+  margin: auto;
+}
+
+.bottom-content{
+  background-color: maroon;
+  height: 100px;
+  width: 300px;
+  margin: auto;
+}
+
+.logo {
+  text-align: center;
+  height: 150px;
+  font-weight: bold;
+  font-size: 100px;
+}
+
+.lists{
+  display: flex;
+}
+
+.list{
+  height: 80px;
+  width: 20px;
+  font-size: 50px;
+  border: 1px black solid;
+  text-align: center;
+  margin: 0 auto;
+}
+
+.reserve{
+  background-color: black;
+  color: white;
+}
